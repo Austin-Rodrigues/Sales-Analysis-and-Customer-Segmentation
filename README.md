@@ -8,7 +8,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ## **Sales Performance Analysis**
 
 ### **Sales Trend Over Time**
-![Sales Trend Over Time](sales_trend.png)
+![Sales Trend Over Time](images/sales_trend.png)
 
 - **Observations:**
   - Sales fluctuate significantly with **spikes during Q4** each year.
@@ -23,7 +23,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ---
 
 ### **Top-Selling Product Lines**
-![Top-Selling Product Lines](top_products.png)
+![Top-Selling Product Lines](images/top_products.png)
 
 - **Observations:**
   - **Classic Cars** and **Vintage Cars** are the **best-selling product categories**.
@@ -38,7 +38,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ---
 
 ### **Sales Distribution by Deal Size**
-![Sales Distribution by Deal Size](sales_by_dealsize.png)
+![Sales Distribution by Deal Size](images/sales_by_dealsize.png)
 
 - **Observations:**
   - **Large deal sizes contribute the highest revenue**, with higher variance.
@@ -53,7 +53,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ---
 
 ### **Top 10 Countries by Sales**
-![Top 10 Countries by Sales](top_countries.png)
+![Top 10 Countries by Sales](images/top_countries.png)
 
 - **Observations:**
   - The **USA dominates sales**, generating the highest revenue.
@@ -68,7 +68,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ---
 
 ### **Order Status Distribution**
-![Order Status Distribution](order_status.png)
+![Order Status Distribution](images/order_status.png)
 
 - **Observations:**
   - The majority of orders are **Shipped** (✅ positive business flow).
@@ -106,7 +106,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ---
 
 ### **Customer Segmentation Heatmap**
-![Customer Segmentation Heatmap](rfm_heatmap.png)
+![Customer Segmentation Heatmap](images/rfm_heatmap.png)
 
 - **Observations:**
   - **VIPs have high scores across Recency, Frequency, and Monetary values.**
@@ -121,7 +121,7 @@ This report presents an in-depth analysis of sales data, identifying key trends,
 ---
 
 ### **Recency vs. Frequency Scatter Plot**
-![Recency vs. Frequency](recency_vs_frequency.png)
+![Recency vs. Frequency](images/recency_vs_frequency.png)
 
 - **Observations:**
   - **VIPs appear in the bottom right (recent, frequent buyers).**
